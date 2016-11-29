@@ -38,8 +38,8 @@ Oskari.registerLocalization(
             },
             "LayerSelectionPlugin": {
                 "title": "Kortalög",
-                "chooseDefaultBaseLayer": "Veldu kortalag fyrir bakgrunninn",
-                "chooseOtherLayers": "NOT TRANSLATED"
+                "chooseDefaultBaseLayer": "Veldu bakgrunnskort",
+                "chooseOtherLayers": "Veldu önnur lög"
             },
             "SearchPlugin": {
                 "placeholder": "Leita að staðsetningu",
