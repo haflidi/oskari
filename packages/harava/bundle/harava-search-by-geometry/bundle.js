@@ -73,6 +73,10 @@ function() {
 			"type" : "text/javascript",
 			"src" : "../../../../bundles/harava/harava-search-by-geometry/resources/locale/sv.js"
 		}, {
+			"lang" : "is",
+			"type" : "text/javascript",
+			"src" : "../../../../bundles/harava/harava-search-by-geometry/resources/locale/is.js"
+		}, {
 			"lang" : "en",
 			"type" : "text/javascript",
 			"src" : "../../../../bundles/harava/harava-search-by-geometry/resources/locale/en.js"

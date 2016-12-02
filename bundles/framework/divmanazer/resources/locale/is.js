@@ -170,7 +170,7 @@ Oskari.registerLocalization(
                 "title": "Stíll línufitju",
                 "tooltip": "Skilgreina stíl fyrir línur.",
                 "style": {
-                    "label": "Dash"
+                    "label": "Brotin lína"
                 },
                 "cap": {
                     "label": "Endingar"

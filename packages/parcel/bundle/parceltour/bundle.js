@@ -46,6 +46,10 @@ Oskari.clazz.define(
                 "type": "text/javascript",
                 "src": "../../../../bundles/parcel/parceltour/resources/locale/fi.js"
             }, {
+                "lang": "is",
+                "type": "text/javascript",
+                "src": "../../../../bundles/parcel/parceltour/resources/locale/is.js"
+            }, {
                 "lang": "sv",
                 "type": "text/javascript",
                 "src": "../../../../bundles/parcel/parceltour/resources/locale/sv.js"

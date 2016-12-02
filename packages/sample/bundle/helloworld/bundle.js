@@ -56,6 +56,10 @@ function() {
             "type" : "text/javascript",
             "src" : "../../../../bundles/sample/helloworld/resources/locale/sv.js"
         }, {
+            "lang" : "is",
+            "type" : "text/javascript",
+            "src" : "../../../../bundles/sample/helloworld/resources/locale/is.js"
+        }, {
             "lang" : "en",
             "type" : "text/javascript",
             "src" : "../../../../bundles/sample/helloworld/resources/locale/en.js"

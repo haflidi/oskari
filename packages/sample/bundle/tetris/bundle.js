@@ -46,6 +46,10 @@ Oskari.clazz.define("Oskari.sample.bundle.tetris.Bundle", function () {
             "type": "text/javascript",
             "src": "../../../../bundles/sample/tetris/resources/locale/en.js"
         }, {
+            "lang": "is",
+            "type": "text/javascript",
+            "src": "../../../../bundles/sample/tetris/resources/locale/is.js"
+        }, {
             "lang": "fi",
             "type": "text/javascript",
             "src": "../../../../bundles/sample/tetris/resources/locale/fi.js"

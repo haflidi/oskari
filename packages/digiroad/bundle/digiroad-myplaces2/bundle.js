@@ -127,6 +127,10 @@ Oskari.clazz.define("Oskari.digiroad.bundle.myplaces2.MyPlacesBundle", function(
             "type" : "text/javascript",
             "src" : "../../../../bundles/digiroad/digiroad-myplaces2/resources/locale/fi.js"
         }, {
+            "lang" : "is",
+            "type" : "text/javascript",
+            "src" : "../../../../bundles/digiroad/digiroad-myplaces2/resources/locale/is.js"
+        }, {
             "lang" : "sv",
             "type" : "text/javascript",
             "src" : "../../../../bundles/digiroad/digiroad-myplaces2/resources/locale/sv.js"

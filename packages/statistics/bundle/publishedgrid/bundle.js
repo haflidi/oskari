@@ -139,6 +139,10 @@ function() {
             "type" : "text/javascript",
             "src" : "../../../../bundles/statistics/statsgrid/resources/locale/fi.js"
         }, {
+            "lang" : "is",
+            "type" : "text/javascript",
+            "src" : "../../../../bundles/statistics/statsgrid/resources/locale/is.js"
+        }, {
             "lang" : "sv",
             "type" : "text/javascript",
             "src" : "../../../../bundles/statistics/statsgrid/resources/locale/sv.js"

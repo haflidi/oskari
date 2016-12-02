@@ -158,6 +158,10 @@ Oskari.clazz.define("Oskari.userinterface.bundle.ui.ComponentsBundle", function(
             "type" : "text/javascript",
             "src" : "../../../../bundles/framework/divmanazer/resources/locale/en.js"
         }, {
+            "lang" : "is",
+            "type" : "text/javascript",
+            "src" : "../../../../bundles/framework/divmanazer/resources/locale/is.js"
+        }, {
             "lang" : "cs",
             "type" : "text/javascript",
             "src" : "../../../../bundles/framework/divmanazer/resources/locale/cs.js"

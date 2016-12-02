@@ -50,6 +50,10 @@ Oskari.clazz.define("Oskari.tampere.bundle.content-editor.ContentEditorBundle", 
             "lang": "fi",
             "type": "text/javascript",
             "src": "../../../../bundles/tampere/content-editor/resources/locale/fi.js"
+        }, {
+            "lang": "is",
+            "type": "text/javascript",
+            "src": "../../../../bundles/tampere/content-editor/resources/locale/is.js"
         }]
     },
     "bundle": {

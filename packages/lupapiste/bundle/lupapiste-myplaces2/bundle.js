@@ -123,6 +123,10 @@ Oskari.clazz.define("Oskari.lupapiste.bundle.myplaces2.MyPlacesBundle", function
             "type" : "text/javascript",
             "src" : "../../../../bundles/lupapiste/lupapiste-myplaces2/resources/locale/sv.js"
         }, {
+            "lang" : "is",
+            "type" : "text/javascript",
+            "src" : "../../../../bundles/lupapiste/lupapiste-myplaces2/resources/locale/is.js"
+        }, {
             "lang" : "en",
             "type" : "text/javascript",
             "src" : "../../../../bundles/lupapiste/lupapiste-myplaces2/resources/locale/en.js"

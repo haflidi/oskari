@@ -70,6 +70,10 @@ Oskari.clazz.define("Oskari.liikennevirasto.bundle.lakapa.HelpBundle", function(
 			"type" : "text/javascript",
 			"src" : "../../../../bundles/liikennevirasto/lakapa-help/resources/locale/fi.js"
 		},{
+			"language" : "is",
+			"type" : "text/javascript",
+			"src" : "../../../../bundles/liikennevirasto/lakapa-help/resources/locale/is.js"
+		},{
 			"language" : "en",
 			"type" : "text/javascript",
 			"src" : "../../../../bundles/liikennevirasto/lakapa-help/resources/locale/en.js"

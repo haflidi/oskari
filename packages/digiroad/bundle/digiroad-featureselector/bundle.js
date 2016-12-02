@@ -151,6 +151,10 @@ function() {
             "type" : "text/javascript",
             "src" : "../../../../bundles/digiroad/digiroad-featureselector/resources/locale/sv.js"
         }, {
+            "lang" : "is",
+            "type" : "text/javascript",
+            "src" : "../../../../bundles/digiroad/digiroad-featureselector/resources/locale/is.js"
+        }, {
             "lang" : "en",
             "type" : "text/javascript",
             "src" : "../../../../bundles/digiroad/digiroad-featureselector/resources/locale/en.js"

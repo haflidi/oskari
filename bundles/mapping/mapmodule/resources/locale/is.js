@@ -30,7 +30,7 @@ Oskari.registerLocalization(
                 "link": "Heimild",
                 "popup": {
                     "title": "Heimildir",
-                    "content": "EKKI ÞÝTT"
+                    "content": " "
                 },
                 "button": {
                     "close": "Loka"
@@ -38,8 +38,8 @@ Oskari.registerLocalization(
             },
             "LayerSelectionPlugin": {
                 "title": "Kortalög",
-                "chooseDefaultBaseLayer": "Veldu bakgrunnskort",
-                "chooseOtherLayers": "Veldu önnur lög"
+                "chooseDefaultBaseLayer": "Veldu kortalag fyrir bakgrunninn",
+                "chooseOtherLayers": "Veldu önnur kortalög"
             },
             "SearchPlugin": {
                 "placeholder": "Leita að staðsetningu",

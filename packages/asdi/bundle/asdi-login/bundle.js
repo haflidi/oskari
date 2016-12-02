@@ -37,6 +37,10 @@ Oskari.clazz.define("Oskari.asdi.login.Bundle", function() {
             "type": "text/javascript",
             "src": "../../../../bundles/asdi/asdi-login/resources/locale/fi.js"
         }, {
+            "lang": "is",
+            "type": "text/javascript",
+            "src": "../../../../bundles/asdi/asdi-login/resources/locale/is.js"
+        }, {
             "lang": "sv",
             "type": "text/javascript",
             "src": "../../../../bundles/asdi/asdi-login/resources/locale/sv.js"

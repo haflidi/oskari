@@ -37,6 +37,10 @@ Oskari.clazz.define("Oskari.liikennevirasto.bundle.lakapa.StartupInfoBundle", fu
 				"type" : "text/javascript",
 				"src" : "../../../../bundles/liikennevirasto/lakapa-startup-info/resources/locale/fi.js"
 			},{
+				"language" : "is",
+				"type" : "text/javascript",
+				"src" : "../../../../bundles/liikennevirasto/lakapa-startup-info/resources/locale/is.js"
+			},{
 				"language" : "en",
 				"type" : "text/javascript",
 				"src" : "../../../../bundles/liikennevirasto/lakapa-startup-info/resources/locale/en.js"

@@ -21,8 +21,8 @@ Oskari.registerLocalization(
             "map": "Landfræðilegt umfang",
             "pdf": "Útprentun",
             "select_metadata_prompt": "Veldu lýsigögn með því að smella á táknin.",
-            "metadata_printout_title": "Útprentun lýsigagna",
-            "linkto": "Tengja í þessi lýsigögn",
+            "metadata_printout_title": "ÚTPRENTUN LÝSIGAGNA",
+            "linkto": "Tengja við þessi lýsigögn",
             "notFound": "Lýsigögn fundust ekki.",
             "codeLists": {
                 "gmd:MD_CharacterSetCode": {
@@ -157,22 +157,22 @@ Oskari.registerLocalization(
                         "description": "Haldið leynilega eða ætlað að vera leynilegt, óþekkt, eða falið öllum nema völdum hópi fólks."
                     },
                     "topSecret": {
-                        "label": "Algert trúnaðarmál",
+                        "label": "Háleynilegt",
                         "description": "Í mestu leynd"
                     }
                 },
                 "gmd:CI_DateTypeCode": {
                     "creation": {
-                        "label": "Myndun",
-                        "description": "Dagsetning er sú sama og þegar tilfangið varð til."
+                        "label": "Búið til",
+                        "description": "Dagsetning þegar tilfangið varð til."
                     },
                     "publication": {
-                        "label": "Birting",
-                        "description": "Dagsetning er sú sama og þegar tilfangið var gefið út."
+                        "label": "Birt",
+                        "description": "Dagsetning þegar tilfangið var gefið út."
                     },
                     "revision": {
-                        "label": "Endurskoðun",
-                        "description": "Dagsetning er sú sama og þegar tilfang var skoðað eða endurskoðað og bætt eða breytt."
+                        "label": "Endurskoðað",
+                        "description": "Dagsetning þegar tilfang var skoðað eða endurskoðað og bætt eða breytt."
                     }
                 },
                 "gmd:MD_RestrictionCode": {
@@ -211,11 +211,11 @@ Oskari.registerLocalization(
                 },
                 "gmd:MD_ScopeCode": {
                     "attribute": {
-                        "label": "Eigindi",
+                        "label": "Eigind",
                         "description": "Upplýsingar eiga við eigindategundina"
                     },
                     "attributeType": {
-                        "label": "Eigindartag",
+                        "label": "Eigindartegund",
                         "description": "Upplýsingar eiga við einkenni fitju"
                     },
                     "collectionHardware": {
@@ -235,8 +235,8 @@ Oskari.registerLocalization(
                         "description": "Upplýsingarnar eiga við röðina"
                     },
                     "nonGeographicDataset": {
-                        "label": "Textagögn",
-                        "description": "Upplýsingarnar eiga við textagögn"
+                        "label": "Ólandfræðileg gagnasett",
+                        "description": "Upplýsingarnar eiga við ólandfræðileg gagnasett"
                     },
                     "dimensionGroup": {
                         "label": "Dimension group",
@@ -277,24 +277,24 @@ Oskari.registerLocalization(
                 },
                 "gmd:MD_SpatialRepresentationTypeCode": {
                     "vector": {
-                        "label": "Vektor",
+                        "label": "Vigurgögn",
                         "description": "Vektorgögn eru notuð til að tákna landgögn"
                     },
                     "grid": {
-                        "label": "Hnitanet",
-                        "description": "Hnitanetgögn eru notuð til að tákna landgögn"
+                        "label": "Reitakerfi",
+                        "description": "Reitakerfi eru notuð til að tákna landgögn"
                     },
                     "textTable": {
                         "label": "Texti, tafla",
                         "description": "Texta- eða töflugögn eru notuð til að tákna landgögn"
                     },
                     "tin": {
-                        "label": "þríhyrnunet",
-                        "description": "þríhyrnunet"
+                        "label": "Þríhyrnunet, TIN",
+                        "description": "Þríhyrnunet (e. Triangulated Irregular Network)"
                     },
                     "stereoModel": {
-                        "label": "Þrívíddarlíkan",
-                        "description": "Þrívíddarmynd sem verður til þegar samsvarandi geislar lenda á myndapari sem skarast"
+                        "label": "Steríólíkan",
+                        "description": "Þrívíddarmynd sem verður til þegar samsvarandi geislar á myndapari skarast"
                     },
                     "video": {
                         "label": "Myndband",
@@ -319,7 +319,7 @@ Oskari.registerLocalization(
                         "description": "Ferlar og fyrirbæri lofthjúpsins. Dæmi: skýjahula, veður, loftslag, ástand lofthjúps, loftslagsbreygingar, úrkoma"
                     },
                     "economy": {
-                        "label": "Efnahagslíf",
+                        "label": "Efnahagur",
                         "description": "Atvinnustarfsemi, skilyrði og atvinna. Dæmi: framleiðsla, vinnuafl, tekjur, verslun, iðnaður, ferðaþjónusta og vistvæn ferðamennska, skógrækt, fiskveiðar, commercial or substinence hunting, rannsóknir og nýting á auðlindum eins og steinefnum, olíu og gasi."
                     },
                     "elevation": {
@@ -327,11 +327,11 @@ Oskari.registerLocalization(
                         "description": "Hæð yfir eða undir sjávarmáli. Dæmi: hæð, dýpi, stafræn hæðarmódel, halli, afleiddar afurðir"
                     },
                     "environment": {
-                        "label": "Umhverfismál",
+                        "label": "Umhverfi",
                         "description": "Umhverfisauðlindir, verndun og varðveisla. Dæmi: umhverfismengun, geymsla og meðferð á úrgangi, mat á umhverfisáhrifum, vöktun á umhverfishættur, friðlönd, landslag"
                     },
                     "geoscientificInformation": {
-                        "label": "Geoscientific information",
+                        "label": "Jarðvísindalegar upplýsingar",
                         "description": "Upplýsingar sem lúta að jarðvísindum. Dæmi: jarðeðlisfræðilegar fitjur og ferli, jarðfræði, steinefni, vísindi sem fjalla um samsetningu, uppbyggingu og uppruna á grjóti jarðar, hætta á jarðskjálftum, eldvirkni, skriðuföll, upplýsingar um þyngdarafl, jarðvegur, sífreri, vatnajarðfræði, veðrun."
                     },
                     "health": {
@@ -343,7 +343,7 @@ Oskari.registerLocalization(
                         "description": "Grunnkort. Dæmi: landsþekjandi, staðfræðikort, myndir, óflokkaðar myndir, textaskýringar."
                     },
                     "intelligenceMilitary": {
-                        "label": "Hergreind",
+                        "label": "Hernaðarlegar upplýsingar",
                         "description": "Herstöðvar, mannvirki, starfsemi. Dæmi: hermannaskálar, æfingasvæði, hersamgöngur, upplýsingasöfnun"
                     },
                     "inlandWaters": {
@@ -367,7 +367,7 @@ Oskari.registerLocalization(
                         "description": "Einkenni samfélags og menningar. Dæmi: landnám, mannfræði, fornleifafræði, menntun, hefðbundin viðhorf, hegðun og siðir, lýðfræðileg gögn, útivistarsvæði og starfsemi, mat á félagslegum áhrifum, afbrot og réttlæti, manntalsupplýsingar."
                     },
                     "structure": {
-                        "label": "Skipan",
+                        "label": "Mannvirki",
                         "description": "Manngerðar byggingar. Dæmi: byggingar, söfn, kirkjur, verksmiðjur, húsnæði, minnisvarðar, verslanir, turnar."
                     },
                     "transportation": {
@@ -375,61 +375,66 @@ Oskari.registerLocalization(
                         "description": "aðferðir og hjálpartæki til að fleytja menn og/eða vörur. Dæmi: vegir, flugvellir/flugbrautir, siglingaleiðir, göng, sjókort, staðsetning á ökutækjum eða skipum, flugkort, járnbrautir."
                     },
                     "utilitiesCommunication": {
-                        "label": "Fjarskiptaþjónusta",
+                        "label": "Fjarskipta- og veituþjónusta",
                         "description": "Orku-, vatns- og úrganskerfi og samskiptagrunnkerfi og þjónustur. Dæmi: rafmagn búið til með vatnsafli, orkugjafar úr jarðhita, sól og kjarnorku, hreinsun og dreifing á vatni, skólpsöfnun og förgun, dreifing á rafmagni og gasi, gagnaflutningar, fjarskipti, útvarp, fjarskiptanet."
                     }
                 }
             },
             "qualityContent": {
-                "qualityPassTrue": "Gagnasettið er í samræmi við forskriftina.",
-                "qualityPassFalse": "Gagnasettið er ekki í samræmi við forskriftina."
+                "qualityPassTrue": "Gagnasettið er í samræmi við skilgreininguna.",
+                "qualityPassFalse": "Gagnasettið er ekki í samræmi við skilgreininguna."
             },
             "heading": {
-                "abstractTextData": "Hugrænn texti (gögn)",
-                "abstractTextService": "Hugrænn texti (þjónustur)",
-                "accessConstraint": "Aðgengistakmörkun",
+                "abstractTextData": "Útdráttur (gögn)",
+                "abstractTextService": "Útdráttur (þjónustur)",
+                "accessConstraint": "Aðgengishömlur",
                 "citationDate": "Dagsetning",
                 "classification": "Flokkun",
                 "descriptiveKeyword": "Lykilorð",
                 "distributionFormat": "Dreifingarsnið",
                 "fileIdentifier": "Auðkenni skrár",
-                "legalConstraint": "Lagalegar takmarkanir",
+                "legalConstraint": "Lagalegar hömlur",
                 "lineageStatement": "Upprunayfirlýsing",
-                "metadataCharacterSet": "Metadata characterset",
+                "metadataCharacterSet": "Stafasett lýsigagna",
                 "metadataDateStamp": "Dagsetning lýsigagna",
                 "metadataLanguage": "Tungumál lýsigagna",
                 "metadataOrganisation": "Nafn stofnunar",
                 "metadataStandardName": "Staðlað nafn lýsigagna",
                 "metadataStandardVersion": "Stöðluð útgáfa lýsigagna",
-                "onlineResource": "Beintengdar auðlindir",
+                "onlineResource": "Beintengd tilföng",
                 "operatesOn": "Starfar á",
-                "otherConstraint": "Aðrar takmarkanir",
+                "otherConstraint": "Aðrar hömlur",
                 "reportConformance": "Samræmi",
                 "responsibleParty": "Ábyrgðaraðili",
-                "resourceIdentifier": "Kennimerki auðlindar",
-                "resourceLanguage": "Tungumál auðlindar",
-                "scopeCode": "Tegund auðlindar",
+                "resourceIdentifier": "Auðkenni tilfangs",
+                "resourceLanguage": "Tungumál tilfangs",
+                "scopeCode": "Tegund tilfangs",
                 "serviceType": "Þjónustutegund",
-                "spatialRepresentationType": "Spatial representation type",
-                "spatialResolution": "Staðupplausn",
+                "spatialRepresentationType": "Tegund landfræðilegrar birtingar",
+                "spatialResolution": "Kvarði (staðupplausn)",
                 "temporalExtent": "Tímaháð útmörk",
                 "topicCategory": "Efnisflokkar",
                 "useLimitation": "Notkunartakmarkanir",
                 "absoluteExternalPositionalAccuracy": "Algild nákvæmni á ytri afstöðu",
                 "accuracyOfTimeMeasurement": "Nákvæmni tímamælingar",
-                "completenessCommission": "Heildstæð nefnd",
-                "completenessOmission": "Heildstætt aðgerðaleysi",
-                "conceptualConsistency": "Huglægt samræmi",
-                "domainConsistency": "Samræmi léna",
-                "formatConsistency": "Samræmi sniða",
+                "completenessCommission": "Hluti umframgagna í skjali",
+                "completenessOmission": "Hluti gagna sem vantar í skjali",
+                "conceptualConsistency": "Samræmi við skilgreiningar",
+                "domainConsistency": "Samræmi léna (e. Domain)",
+                "formatConsistency": "Samræmi sniða (e. Format)",
                 "griddedDataPositionalAccuracy": "Afstöðunákvæmni á gögnum í neti",
-                "nonQuantitativeAttributeAccuracy": "Ómagnbundin eiginleikanákvæmni",
-                "quantitativeAttributeAccuracy": "Magnbundin eiginleikanákvæmni",
+                "nonQuantitativeAttributeAccuracy": "Ómagnbundin eigindanákvæmni",
+                "quantitativeAttributeAccuracy": "Magnbundin eigindanákvæmni",
                 "relativeInternalPositionalAccuracy": "Hlutfallsleg innri afstöðunákvæmni",
                 "temporalConsistency": "Tímabundið samræmi",
                 "temporalValidity": "Tímabundinn gildistími",
                 "thematicClassificationCorrectness": "Réttleiki á þemaflokkun",
                 "topologicalConsistency": "Grannfræðisamræmi"
+            },
+            "layerList": {
+                "title": "Kortalög",
+                "show":"Sýna kortalög",
+                "hide": "Fela kortalög"
             }
         },
         "tile": {

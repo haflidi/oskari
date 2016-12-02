@@ -72,6 +72,10 @@ function() {
             "type" : "text/javascript",
             "src" : "../../../../bundles/liikennevirasto/lakapa-basket/resources/locale/sv.js"
         }, {
+            "lang" : "is",
+            "type" : "text/javascript",
+            "src" : "../../../../bundles/liikennevirasto/lakapa-basket/resources/locale/is.js"
+        }, {
             "lang" : "en",
             "type" : "text/javascript",
             "src" : "../../../../bundles/liikennevirasto/lakapa-basket/resources/locale/en.js"

@@ -5,7 +5,7 @@ Oskari.registerLocalization(
     "value": {
         "title": "Gögnin mín",
         "desc": "Gögnin mín",
-        "notLoggedIn": "Gögnin mín inniheldur notandasnið og allar fitjur sem þú hefur vistað, kortasýn, ívafin kort, vísbendingar, greiningar og gagnasett. <a href='/web/is/innskra'>Skráðu þig inn til að til að skoða gögnin þín</a>.",
+        "notLoggedIn": "Gögnin mín inniheldur notandasnið og allar fitjur sem þú hefur vistað, kortasýn, innfelld kort, vísar, greiningar og gagnasett. <a href='/web/is/innskra'>Skráðu þig inn til að til að skoða gögnin þín</a>.",
         "notLoggedInText": "Skrá inn",
         "tabs": {
             "myviews": {
@@ -78,7 +78,7 @@ Oskari.registerLocalization(
                     "delete": "Eyða"
                 },
                 "published": {
-                    "desc": "Ívefðu kortið með því að bæta HTML kóðanum hér fyrir neðan á vefsíðuna þína:"
+                    "desc": "Felldu inn kortið með því að bæta HTML kóðanum hér fyrir neðan á vefsíðuna þína:"
                 },
                 "popup": {
                     "edit": "Breyta kortanafni",

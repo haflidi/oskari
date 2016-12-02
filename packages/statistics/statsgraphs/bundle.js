@@ -52,6 +52,10 @@ Oskari.clazz.define("Oskari.statistics.statsgraphs.StatsGraphsBundle",
                 "type": "text/javascript",
                 "src": "../../../bundles/statistics/statsgraphs/resources/locale/fi.js"
             }, {
+                "lang": "is",
+                "type": "text/javascript",
+                "src": "../../../bundles/statistics/statsgraphs/resources/locale/is.js"
+            }, {
                 "lang": "en",
                 "type": "text/javascript",
                 "src": "../../../bundles/statistics/statsgraphs/resources/locale/en.js"

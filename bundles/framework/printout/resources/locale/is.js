@@ -29,8 +29,8 @@ Oskari.registerLocalization(
                 "options": [
                     {
                         "id": "A4",
-                        "label": "A4 portrait",
-                        "classForPreview": "forskoðun-portrait",
+                        "label": "A4 portrett",
+                        "classForPreview": "forskoðun-portrett",
                         "selected": true
                     },
                     {
@@ -40,8 +40,8 @@ Oskari.registerLocalization(
                     },
                     {
                         "id": "A3",
-                        "label": "A3 portrait",
-                        "classForPreview": "forskoðun-portrait"
+                        "label": "A3 portrett",
+                        "classForPreview": "forskoðun-portrett"
                     },
                     {
                         "id": "A3_Landslags",

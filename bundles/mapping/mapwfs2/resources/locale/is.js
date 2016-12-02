@@ -8,7 +8,7 @@ Oskari.registerLocalization(
         "default-style": "Sjálfgefinn stíll",
         "own-style": "Eigin stíll",
         "refresh": "Uppfæra",
-        "refresh_title": "Uppfæra gögn sem flytjast ekki sjálfkrafa á kortið.",
+        "refresh_title": "Uppfæra gögn sem teiknast ekki sjálfkrafa á kortið.",
         "tile": {
             "title": "Gagnastjórnun (WFS)"
         },

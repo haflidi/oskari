@@ -66,6 +66,10 @@ function() {
 			"type" : "text/javascript",
 			"src" : "../../../../bundles/harava/harava-draw/resources/locale/sv.js"
 		}, {
+			"lang" : "is",
+			"type" : "text/javascript",
+			"src" : "../../../../bundles/harava/harava-draw/resources/locale/is.js"
+		}, {
 			"lang" : "en",
 			"type" : "text/javascript",
 			"src" : "../../../../bundles/harava/harava-draw/resources/locale/en.js"

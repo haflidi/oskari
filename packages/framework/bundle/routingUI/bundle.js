@@ -30,6 +30,10 @@ Oskari.clazz.define("Oskari.mapframework.bundle.routingUI.RoutingUIBundleInstanc
             "type": "text/javascript",
             "src": "../../../../bundles/framework/routingUI/resources/locale/fi.js"
         }, {
+            "lang": "is",
+            "type": "text/javascript",
+            "src": "../../../../bundles/framework/routingUI/resources/locale/is.js"
+        }, {
             "lang": "sv",
             "type": "text/javascript",
             "src": "../../../../bundles/framework/routingUI/resources/locale/sv.js"

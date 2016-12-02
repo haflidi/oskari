@@ -42,6 +42,10 @@ function() {
             "type" : "text/javascript",
             "src" : "../../../../bundles/sample/myfourthbundle/resources/locale/sv.js"
         }, {
+            "lang" : "is",
+            "type" : "text/javascript",
+            "src" : "../../../../bundles/sample/myfourthbundle/resources/locale/is.js"
+        }, {
             "lang" : "en",
             "type" : "text/javascript",
             "src" : "../../../../bundles/sample/myfourthbundle/resources/locale/en.js"

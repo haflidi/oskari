@@ -51,6 +51,10 @@ Oskari.clazz.define("Oskari.mapframework.bundle.geometryeditor.GeometryEditorBun
                 "type": "text/javascript",
                 "src": "../../../../bundles/framework/geometryeditor/resources/locale/fi.js"
             }, {
+                "lang": "is",
+                "type": "text/javascript",
+                "src": "../../../../bundles/framework/geometryeditor/resources/locale/is.js"
+            }, {
                 "lang": "sv",
                 "type": "text/javascript",
                 "src": "../../../../bundles/framework/geometryeditor/resources/locale/sv.js"

@@ -47,6 +47,10 @@ function() {
 			"type" : "text/javascript",
 			"src" : "../../../../bundles/liikennevirasto/lakapa-save-user-map-state/resources/locale/sv.js"
 		}, {
+			"lang" : "is",
+			"type" : "text/javascript",
+			"src" : "../../../../bundles/liikennevirasto/lakapa-save-user-map-state/resources/locale/is.js"
+		}, {
 			"lang" : "en",
 			"type" : "text/javascript",
 			"src" : "../../../../bundles/liikennevirasto/lakapa-save-user-map-state/resources/locale/en.js"

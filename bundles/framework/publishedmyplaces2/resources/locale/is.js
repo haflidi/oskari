@@ -51,16 +51,16 @@ Oskari.registerLocalization(
             "measureline": {
                 "title": "Mæla vegalengd",
                 "tooltip": "Mæla vegalengd",
-                "add": "",
-                "next": "",
+                "add": "Bæta við línu",
+                "next": "Næsta",
                 "edit": "Þú getur breytt línunni með því að smella á rofstaði og draga þá til.",
                 "noResult": "0 m"
             },
             "measurearea": {
                 "title": "Mæla svæði",
                 "tooltip": "Mæla svæði",
-                "add": "",
-                "next": "",
+                "add": "Bæta við svæði",
+                "next": "Næsta",
                 "edit": "Þú getur breytt svæðinu með því að smella á rofstaði og draga þá til.",
                 "noResult": "0 m²"
             },

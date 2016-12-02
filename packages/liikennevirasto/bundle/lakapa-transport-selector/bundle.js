@@ -87,6 +87,10 @@ function() {
 			"type" : "text/javascript",
 			"src" : "../../../../bundles/liikennevirasto/lakapa-transport-selector/resources/locale/sv.js"
 		}, {
+			"lang" : "is",
+			"type" : "text/javascript",
+			"src" : "../../../../bundles/liikennevirasto/lakapa-transport-selector/resources/locale/is.js"
+		}, {
 			"lang" : "en",
 			"type" : "text/javascript",
 			"src" : "../../../../bundles/liikennevirasto/lakapa-transport-selector/resources/locale/en.js"

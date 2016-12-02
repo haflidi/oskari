@@ -15,8 +15,8 @@ Oskari.registerLocalization(
         },
         "tab": {
             "title": "Staðir",
-            "nocategories": "Þú hefur ekki vistað staði.",
-            "maxFeaturesExceeded": "Hámarksfjölda staðarmerkinga náð. Það er ekki hægt að hlaða öllum stöðunum inn.",
+            "nocategories": "Þú er ekki enn með vistaða staði.",
+            "maxFeaturesExceeded": "Hámarksfjölda eigin staðarmerkinga náð. Vinsamlegast fjarlægðu einhverja staði.",
             "publishCategory": {
                 "privateTooltip": "Þetta kortalag er lokað. Smelltu hér til að birta það.",
                 "publicTooltip": "Þetta kortalag er opið. Smelltu hér til að afturkalla birtingu."
@@ -54,7 +54,7 @@ Oskari.registerLocalization(
                 "tooltip": "Mæla lengd",
                 "add": "Bæta við línu",
                 "next": "Næst",
-                "edit": "Þú getur breytt línunni með því að smella á rofstaðina og draga þá til.",
+                "edit": "Þú getur breytt línunni með því að smella á brotpunktana og draga þá til.",
                 "noResult": "0 m"
             },
             "measurearea": {
@@ -62,7 +62,7 @@ Oskari.registerLocalization(
                 "tooltip": "Teikna svæði og mæla það.",
                 "add": "Bæta við svæði",
                 "next": "Næst",
-                "edit": "Þú getur breytt svæðinu með því að smella á brúnina á rofstöðunum og draga þá til.",
+                "edit": "Þú getur breytt svæðinu með því að smella á brúnina á brotpunktunum og draga þá til.",
                 "noResult": "0 m²"
             },
             "point": {
@@ -76,34 +76,34 @@ Oskari.registerLocalization(
             "line": {
                 "title": "Bæta við línu",
                 "tooltip": "Bæta línu við \"Staðirnir mínir\".",
-                "add": "Teiknaðu línu með því að bæta rofstöðum á kortið. Þú getur bætt við rofstöðum með því að smella á kortið. Hættu að teikna með því að tvísmella eða með því að smella á \"Vista sem staðinn minn\".",
+                "add": "Teiknaðu línu með því að bæta brotpunktum á kortið. Þú getur bætt við brotpunktum með því að smella á kortið. Hættu að teikna með því að tvísmella eða með því að smella á \"Vista sem staðinn minn\".",
                 "next": "Einn staður getur innihaldið eina eða fleiri línur.",
-                "edit": "Breyttu línunni með því að smella á rofstaðina og draga þá til.",
+                "edit": "Breyttu línunni með því að smella á brotpunktana og draga þá til.",
                 "save": "Vista sem \"staðurinn minn\"",
                 "noResult": "0 m"
             },
             "area": {
                 "title": "Bæta við svæði",
                 "tooltip": "Bæta svæði við \"Staðirnir mínir\".",
-                "add": "Teiknaðu svæði með því að bæta rofstöðum á brún línanna á kortið. Þú getur bætt rofstöðum við með því að smella á kortið. Til að hætta að teikna tvísmellirðu eða smellir á \"Vista sem Staðurinn minn\".",
+                "add": "Teiknaðu svæði með því að bæta brotpunktum á brún línanna á kortið. Þú getur bætt brotpunktum við með því að smella á kortið. Til að hætta að teikna tvísmellirðu eða smellir á \"Vista sem Staðurinn minn\".",
                 "next": "Einn staður getur innihaldið eitt eða fleiri svæði.",
-                "edit": "Breyttu svæðinu með því að smella á rofstaðina á brún línunnar og draga þá til.",
+                "edit": "Breyttu svæðinu með því að smella á brotpunktana á brún línunnar og draga þá til.",
                 "save": "Vista sem \"staðurinn minn\"",
                 "noResult": "0 m²"
             }
         },
         "buttons": {
-            "ok": "Ok",
+            "ok": "Í lagi",
             "cancel": "Hætta við",
             "close": "Hætta við",
-            "finish": "Vista sem \"staðurinn minn\"",
+            "finish": "Vista minn stað",
             "save": "Vista",
-            "saveAsMyPlace": "Vista sem \"staðurinn minn\"",
-            "movePlaces": "Færðu staðina og eyddu laginu",
+            "saveAsMyPlace": "Vista minn stað",
+            "movePlaces": "Færa staði og eyða",
             "deleteCategory": "Eyða",
             "deleteCategoryAndPlaces": "Eyddu kortalaginu og stöðunum á því",
-            "changeToPublic": "Gera opinbert",
-            "changeToPrivate": "Gera óopinbert"
+            "changeToPublic": "Birta",
+            "changeToPrivate": "Afturkalla birtingu"
         },
         "placeform": {
             "title": "Staðsetja gögn",

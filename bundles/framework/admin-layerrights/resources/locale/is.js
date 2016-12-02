@@ -4,7 +4,7 @@ Oskari.registerLocalization(
     "key": "admin-layerrights",
     "value": {
         "title": "Laga réttindi",
-        "desc": "EKKI ÞÝTT",
+        "desc": " ",
         "tile": {
             "title": "Kortalaga réttindi"
         },

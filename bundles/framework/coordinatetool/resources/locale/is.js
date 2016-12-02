@@ -12,50 +12,42 @@ Oskari.registerLocalization(
                 "default": "{crs} coordinates"
             },
             "popup": {
-                "title": "Coordinates",
-                "searchButton": "Center map",
-                "addMarkerButton": "Add marker",
-                "info": "Type coordinates or click a point on the map.",
-                "showMouseCoordinates": "Show mouse cursor coordinates"
+                "title": "Hnit",
+                "searchButton": "Miðja kort",
+                "addMarkerButton": "Bæta við merki",
+                "info": "Smelltu á staðsetningu á kortinu til að sjá hnitin eða sláðu inn hnitin og smelltu á 'Miðja kort'.",
+                "showMouseCoordinates": "Sýna hnit músabendils"
             },
             "compass": {
-                "lon": "Lon",
-                "lat": "Lat",
-                "n": "N",
-                "e": "E",
-                "p": "N",
-                "i": "E"
+                "lon": "A / Lengd:",
+                "lat": "N / Breidd:"
             },
             "reversegeocode": {
-                "errorTitle": "Reverse geocoding error",
-                "error": "Error to get reverse geocode for the current position",
+                "errorTitle": "Villa við öfuga hnitun",
+                "error": "Villa við að fá öfuga hnitun fyrir núverandi staðsetningu",
                 "WHAT3WORDS_CHANNEL": {
-                    "label": "what3words: "
+                    "label": "What3words: "
                 },
                 "NLS_NEAREST_FEATURE_CHANNEL": {
                     "label": "Address: "
-                },
-                "TM35LEHTIJAKO_CHANNEL": {
-                    "label": "Map sheet: "
-                },
-                "moreInfo" : "Show more info on current position."
+                }
             },
             "tooltip": {
-                "tool": "Show coordinates or type coordinates and focus map on them.",
-                "close": "Close"
+                "tool": "Sýna hnit eða sláðu inn hnit og einblína korti á þau.",
+                "close": "Loka"
             },
             "checkValuesDialog": {
-                "button": "OK",
-                "title": "Error",
-                "message": "An error occurred. Please check the coordinate values."
+                "button": "Í lagi",
+                "title": "Villa",
+                "message": "Villa kom upp. Athugaðu gildi hnitanna."
             },
             "projectionChange": {
-                "header": "Change projection",
-                "projection":"Projection",
-                "confirmationMessage": "Changing the projection will return the application to it's initial state and all opened maplayers will be removed. Do you wish to continue?",
+                "header": "Breyta um vörpun",
+                "projection":"Vörpun",
+                "confirmationMessage": "Breyting á vörpun mun skila veflausninni í upprunalegt horf og öll opnuð kortalög verða fjarlægð. Viltu halda áfram?",
                 "buttons": {
-                    "ok": "OK",
-                    "cancel": "Cancel"
+                    "ok": "Í lagi",
+                    "cancel": "Hætta við"
                 }
             },
             "coordinatesTransform": {
@@ -86,20 +78,15 @@ Oskari.registerLocalization(
                    "EPSG:2391": "KKJ zone 1",
                    "EPSG:2392": "KKJ zone 2",
                    "EPSG:2394": "KKJ zone 4"
-                },
-                "emergencyCallLabel": "The coordinates recommended to be used in emergency calls are",
-                "emergencyCallLabelAnd": "and",
-                "showCoordinateFormatDisplay":"Show coordinates &raquo;",
-                "showInputValues":"&laquo; Input values"
-
+                }
             },
             "cannotTransformCoordinates" : {
-                "title": "Error",
-                "message": "Coordinates cannot transformed"
+                "title": "Villa",
+                "message": "Ekki er hægt að varpa hnitunum"
             },
             "publisher": {
-                "showTransformationTools": "Show coordinate transformation tools",
-                "noUI": "Hide user interface (Use RPC interface)"
+                "showTransformationTools": "Sýna hnitavörpunartól",
+                "noUI": "Fela notenda viðmót (Nota RPC viðmót)"
             }
         }
     }

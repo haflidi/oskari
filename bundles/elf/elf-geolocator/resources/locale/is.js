@@ -32,9 +32,6 @@ Oskari.registerLocalization(
             "geolocButton": "Finndu næsta stað",
             "geolocDesc": "Smelltu á kortið og finndu örnefnið sem er næst staðnum.",
             "noResults": "Engar leitarniðurstöður",
-            "showMore": "Sýna leitarvalkosti",
-            "showLess": "Fela leitarvalkosti",
-            "emptyOption": "* Ekkert valið *",
             "errors": {
                 "searchTermMissing": "Leitarorð nauðsynlegt",
                 "searchFailed": "Leit mistókst. Vinsamlegast reyndu aftur síðar."

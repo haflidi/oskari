@@ -53,6 +53,10 @@ Oskari.clazz.define("Oskari.mapframework.bundle.heatmap.HeatmapBundle", function
             "type": "text/javascript",
             "src": "../../../../bundles/framework/heatmap/resources/locale/fi.js"
         }, {
+            "lang": "is",
+            "type": "text/javascript",
+            "src": "../../../../bundles/framework/heatmap/resources/locale/is.js"
+        }, {
             "lang": "sv",
             "type": "text/javascript",
             "src": "../../../../bundles/framework/heatmap/resources/locale/sv.js"

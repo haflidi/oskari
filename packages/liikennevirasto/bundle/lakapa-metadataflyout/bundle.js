@@ -59,6 +59,10 @@ Oskari.clazz.define("Oskari.catalogue.bundle.metadataflyout.MetadataFlyoutBundle
 			"type" : "text/javascript",
 			"src" : "../../../../bundles/liikennevirasto/lakapa-metadataflyout/resources/locale/fi.js"
 		},{
+			"lang" : "is",
+			"type" : "text/javascript",
+			"src" : "../../../../bundles/liikennevirasto/lakapa-metadataflyout/resources/locale/is.js"
+		},{
 			"lang" : "en",
 			"type" : "text/javascript",
 			"src" : "../../../../bundles/liikennevirasto/lakapa-metadataflyout/resources/locale/en.js"

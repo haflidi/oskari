@@ -53,6 +53,10 @@ Oskari.clazz.define("Oskari.tampere.bundle.searchfromchannels.SearchFromChannels
 			"type" : "text/javascript",
 			"src" : "../../../../bundles/tampere/search-from-channels/resources/locale/en.js"
 		},{
+			"lang" : "is",
+			"type" : "text/javascript",
+			"src" : "../../../../bundles/tampere/search-from-channels/resources/locale/is.js"
+		},{
 			"lang" : "sv",
 			"type" : "text/javascript",
 			"src" : "../../../../bundles/tampere/search-from-channels/resources/locale/sv.js"

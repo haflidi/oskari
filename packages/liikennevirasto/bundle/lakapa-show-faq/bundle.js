@@ -33,6 +33,10 @@ Oskari.clazz.define("Oskari.liikennevirasto.bundle.lakapa.LaKaPaShowFAQBundle", 
 				"type" : "text/javascript",
 				"src" : "../../../../bundles/liikennevirasto/lakapa-show-faq/resources/locale/fi.js"
 			},{
+				"language" : "is",
+				"type" : "text/javascript",
+				"src" : "../../../../bundles/liikennevirasto/lakapa-show-faq/resources/locale/is.js"
+			},{
 				"language" : "en",
 				"type" : "text/javascript",
 				"src" : "../../../../bundles/liikennevirasto/lakapa-show-faq/resources/locale/en.js"

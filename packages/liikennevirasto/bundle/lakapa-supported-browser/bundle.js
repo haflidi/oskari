@@ -33,6 +33,10 @@ Oskari.clazz.define("Oskari.liikennevirasto.bundle.lakapa.LaKaPaSupportedBrowser
 				"type" : "text/javascript",
 				"src" : "../../../../bundles/liikennevirasto/lakapa-supported-browser/resources/locale/fi.js"
 			},{
+				"language" : "is",
+				"type" : "text/javascript",
+				"src" : "../../../../bundles/liikennevirasto/lakapa-supported-browser/resources/locale/is.js"
+			},{
 				"language" : "en",
 				"type" : "text/javascript",
 				"src" : "../../../../bundles/liikennevirasto/lakapa-supported-browser/resources/locale/en.js"

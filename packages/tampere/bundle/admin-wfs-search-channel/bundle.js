@@ -58,6 +58,10 @@ Oskari.clazz.define("Oskari.tampere.bundle.tampere.AdminWfsSearchChannelBundle",
 				"type" : "text/javascript",
 				"src" : "../../../../bundles/tampere/admin-wfs-search-channel/resources/locale/en.js"
 			},{
+				"lang" : "is",
+				"type" : "text/javascript",
+				"src" : "../../../../bundles/tampere/admin-wfs-search-channel/resources/locale/is.js"
+			},{
 				"lang" : "sv",
 				"type" : "text/javascript",
 				"src" : "../../../../bundles/tampere/admin-wfs-search-channel/resources/locale/sv.js"

@@ -36,6 +36,10 @@ Oskari.clazz.define(
                 "type": "text/javascript",
                 "src": "../../../../bundles/framework/myplacesimport/resources/locale/sv.js"
             }, {
+                "lang": "is",
+                "type": "text/javascript",
+                "src": "../../../../bundles/framework/myplacesimport/resources/locale/is.js"
+            }, {
                 "lang": "en",
                 "type": "text/javascript",
                 "src": "../../../../bundles/framework/myplacesimport/resources/locale/en.js"

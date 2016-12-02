@@ -59,6 +59,10 @@ Oskari.clazz.define("Oskari.framework.bundle.admin-users.AdminUsersBundle",
                 "type": "text/javascript",
                 "src": "../../../../bundles/framework/admin-users/resources/locale/fi.js"
             }, {
+                "lang": "is",
+                "type": "text/javascript",
+                "src": "../../../../bundles/framework/admin-users/resources/locale/is.js"
+            }, {
                 "lang": "sv",
                 "type": "text/javascript",
                 "src": "../../../../bundles/framework/admin-users/resources/locale/sv.js"

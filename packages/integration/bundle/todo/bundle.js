@@ -63,6 +63,10 @@ Oskari.clazz.define("Oskari.integration.bundle.todo.ToDoBundle", function() {
             "type" : "text/javascript",
             "src" : "../../../../bundles/integration/todo/resources/locale/en.js"
         }, {
+            "lang" : "is",
+            "type" : "text/javascript",
+            "src" : "../../../../bundles/integration/todo/resources/locale/is.js"
+        }, {
             "lang" : "sv",
             "type" : "text/javascript",
             "src" : "../../../../bundles/integration/todo/resources/locale/sv.js"

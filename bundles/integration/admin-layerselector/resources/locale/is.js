@@ -7,7 +7,7 @@ Oskari.registerLocalization(
         "desc": "",
         "flyout": {
             "title": "Stjórnun kortalaga",
-            "fetchingLayers": "Sækja kortalög"
+            "fetchingLayers": "Sækja kortalögin"
         },
         "tile": {
             "title": "A: Map Layers",
@@ -28,7 +28,7 @@ Oskari.registerLocalization(
         },
         "loading": "Hleður...",
         "filter": {
-            "text": "Leita kortalög",
+            "text": "Leita að kortalögum",
             "inspire": "Eftir þema",
             "organization": "Eftir gagnaveitanda",
             "published": "Notendur"
@@ -39,7 +39,7 @@ Oskari.registerLocalization(
         },
         "tooltip": {
             "type-base": "Bakgrunnskort",
-            "type-wms": "Korta lag",
+            "type-wms": "Kortalag",
             "type-wfs": "Gögn"
         },
         "admin": {

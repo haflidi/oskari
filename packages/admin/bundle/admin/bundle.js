@@ -50,6 +50,10 @@ function() {
             "type" : "text/javascript",
             "src" : "../../../../bundles/admin/admin/resources/locale/fi.js"
         }, {
+            "lang" : "is",
+            "type" : "text/javascript",
+            "src" : "../../../../bundles/admin/admin/resources/locale/is.js"
+        }, {
             "lang" : "sv",
             "type" : "text/javascript",
             "src" : "../../../../bundles/admin/admin/resources/locale/sv.js"

@@ -42,6 +42,10 @@ Oskari.clazz.define("Oskari.mapframework.bundle.selected-featuredata.SelectedFea
 				"type" : "text/javascript",
 				"src" : "../../../../bundles/framework/selected-featuredata/resources/locale/en.js"
 			},{
+				"lang" : "is",
+				"type" : "text/javascript",
+				"src" : "../../../../bundles/framework/selected-featuredata/resources/locale/is.js"
+			},{
 				"lang" : "sv",
 				"type" : "text/javascript",
 				"src" : "../../../../bundles/framework/selected-featuredata/resources/locale/sv.js"

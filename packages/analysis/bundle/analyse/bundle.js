@@ -74,6 +74,10 @@ Oskari.clazz.define("Oskari.analysis.bundle.analyse.AnalyseBundle", function() {
             "type" : "text/javascript",
             "src" : "../../../../bundles/analysis/analyse/resources/locale/sv.js"
         }, {
+            "lang" : "is",
+            "type" : "text/javascript",
+            "src" : "../../../../bundles/analysis/analyse/resources/locale/is.js"
+        }, {
             "lang" : "it",
             "type" : "text/javascript",
             "src" : "../../../../bundles/analysis/analyse/resources/locale/it.js"

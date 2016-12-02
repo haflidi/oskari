@@ -45,6 +45,10 @@ Oskari.clazz.define("Oskari.mapframework.bundle.timeseries.TimeseriesToolBundle"
             "type": "text/javascript",
             "src": "../../../../bundles/framework/timeseries/resources/locale/en.js"
         }, {
+            "lang": "is",
+            "type": "text/javascript",
+            "src": "../../../../bundles/framework/timeseries/resources/locale/is.js"
+        }, {
             "lang": "fi",
             "type": "text/javascript",
             "src": "../../../../bundles/framework/timeseries/resources/locale/fi.js"

@@ -28,7 +28,7 @@ Oskari.registerLocalization(
                 "title": "Vista upplýsingar um gagnasettið:",
                 "name": "Nafn",
                 "desc": "Lýsing",
-                "source": "Gagnalind",
+                "source": "Gagnauppruni",
                 "style": "Skilgreining á gerð gagnasetts:"
             },
             "validations": {
