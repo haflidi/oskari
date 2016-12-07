@@ -179,7 +179,7 @@ Oskari.registerLocalization(
                 "domain": "Nauðsynlegt er að hafa upplýsingar um vefsíðu.",
                 "domainStart": "Slepptu því að hafa forskeytin http og www í nafni vefsíðunnar.",
                 "name": "Nauðsynlegt er að hafa upplýsingar um nafn.",
-                "nohelp": "Notkunarleiðbeiningarnar eru ekki fáanlegar.",
+                "nohelp": "Leiðbeiningarnar eru ekki fáanlegar.",
                 "saveFailed": "Vistun mistókst",
                 "nameIllegalCharacters": "Nafn korts inniheldur stafi sem ekki eru leyfðir. Bókstafir frá a-ö eru leyfðir, einnig tölustafir, bandstrik og undirstrik. Ekki eru leyfðir séríslenskir stafir fyrir utan ö.",
                 "domainIllegalCharacters": "Nafn vefsíðunnar inniheldur stafi sem ekki eru leyfðir. Bókstafir frá a-z eru leyfðir, einnig tölustafir, bandstrik og undirstrik. Ekki eru leyfðir séríslenskir stafir fyrir utan ö."

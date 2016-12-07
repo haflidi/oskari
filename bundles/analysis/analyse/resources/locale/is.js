@@ -3,10 +3,10 @@ Oskari.registerLocalization(
     "lang": "is",
     "key": "Analyse",
     "value": {
-        "title": "Geining <font color=red>(BETA)</font>",
+        "title": "Greining <font color=red>(BETA)</font>",
         "flyouttitle": "Greining <font color=red>(BETA)</font>",
         "desc": "",
-        "btnTooltip": "Geining",
+        "btnTooltip": "Greining",
         "NotLoggedView": {
             "text": "Með Greiningar virkninni getur þú gert einfaldar landfræðilegar greiningar á kortalögum sem eru með fitjugögn. Virknin er aðeins í boði fyrir innskráða notendur.",
             "signup": "Innskráning",
