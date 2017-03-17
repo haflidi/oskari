@@ -9,6 +9,7 @@ Oskari.registerLocalization(
             "crs": {
                 "EPSG:3067": "ETRS89-TM35FIN coordinates",
                 "EPSG:3575": "North Pole LAEA Europe coordinates",
+		"EPSG:3057": "ISN93 / Lambert 1993",
                 "default": "{crs} coordinates"
             },
             "popup": {
@@ -62,6 +63,7 @@ Oskari.registerLocalization(
                 "header": "Coordinate system:",
                 "projections": {
                    "EPSG:3067": "ETRS-TM35FIN coordinates",
+		   "EPSG:3057": "ISN93 / Lambert 1993",
                    "NLSFI:etrs_gk": "ETRS-GKn coordinates",
                    "NLSFI:kkj": "KKJ Basic Coordinate System",
                    "NLSFI:ykj": "KKJ Uniform Coordinate System",
