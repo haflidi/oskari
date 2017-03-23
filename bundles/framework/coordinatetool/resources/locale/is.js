@@ -10,6 +10,8 @@ Oskari.registerLocalization(
                 "EPSG:3067": "ETRS89-TM35FIN coordinates",
                 "EPSG:3575": "North Pole LAEA Europe coordinates",
 		"EPSG:3057": "ISN93 / Lambert 1993",
+		"EPSG:4326": "WGS 84",
+		"EPSG:5325": "ISN2004 / Lambert 2004",
                 "default": "{crs} coordinates"
             },
             "popup": {
@@ -20,8 +22,8 @@ Oskari.registerLocalization(
                 "showMouseCoordinates": "Sýna hnit músabendils"
             },
             "compass": {
-                "lon": "A / Lengd:",
-                "lat": "N / Breidd:",
+                "lon": "Lengd",
+                "lat": "Breidd",
                 "n": "N",
                 "e": "A",
                 "p": "N",
@@ -42,7 +44,7 @@ Oskari.registerLocalization(
                 "moreInfo" : "Show more info on current position."
             },
             "tooltip": {
-                "tool": "Sýna hnit eða sláðu inn hnit og einblína korti á þau.",
+                "tool": "Sýna hnit eða skrifa inn hnit og stilla korti á þau.",
                 "close": "Loka"
             },
             "checkValuesDialog": {
@@ -63,7 +65,9 @@ Oskari.registerLocalization(
                 "header": "Coordinate system:",
                 "projections": {
                    "EPSG:3067": "ETRS-TM35FIN coordinates",
+		   "EPSG:4326": "WGS 84",
 		   "EPSG:3057": "ISN93 / Lambert 1993",
+		   "EPSG:5325": "ISN2004 / Lambert 2004",
                    "NLSFI:etrs_gk": "ETRS-GKn coordinates",
                    "NLSFI:kkj": "KKJ Basic Coordinate System",
                    "NLSFI:ykj": "KKJ Uniform Coordinate System",
@@ -88,8 +92,13 @@ Oskari.registerLocalization(
                    "EPSG:2391": "KKJ zone 1",
                    "EPSG:2392": "KKJ zone 2",
                    "EPSG:2394": "KKJ zone 4"
-                }
+                },
+                "emergencyCallLabel": "Hnit sem mælt er með að gefa upp þegar hringt er á neyðarlínuna er hér að neðan",
+                "emergencyCallLabelAnd": "og",
+                "showCoordinateFormatDisplay":"Sýna hnit &raquo;",
+                "showInputValues":"&laquo; Skráð gildi"
             },
+
             "cannotTransformCoordinates" : {
                 "title": "Villa",
                 "message": "Ekki er hægt að varpa hnitunum"

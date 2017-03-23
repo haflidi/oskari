@@ -10,6 +10,8 @@ Oskari.registerLocalization(
                 "EPSG:3067": "ETRS89-TM35FIN coordinates",
                 "EPSG:3575": "North Pole LAEA Europe coordinates",
 		"EPSG:3057": "ISN93 / Lambert 1993",
+		"EPSG:4326": "WGS 84",
+		"EPSG:5325": "ISN2004 / Lambert 2004",
                 "default": "{crs} coordinates"
             },
             "popup": {
@@ -63,7 +65,9 @@ Oskari.registerLocalization(
                 "header": "Coordinate system:",
                 "projections": {
                    "EPSG:3067": "ETRS-TM35FIN coordinates",
+		   "EPSG:4326": "WGS 84",
 		   "EPSG:3057": "ISN93 / Lambert 1993",
+		   "EPSG:5325": "ISN2004 / Lambert 2004",
                    "NLSFI:etrs_gk": "ETRS-GKn coordinates",
                    "NLSFI:kkj": "KKJ Basic Coordinate System",
                    "NLSFI:ykj": "KKJ Uniform Coordinate System",
@@ -102,7 +106,7 @@ Oskari.registerLocalization(
             "publisher": {
                 "showTransformationTools": "Show coordinate transformation tools",
                 "noUI": "Hide user interface (Use RPC interface)"
-            }
+            },
         }
     }
 }
